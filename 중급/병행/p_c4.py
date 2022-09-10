@@ -20,7 +20,7 @@ import os
 import time
 from concurrent import futures
 
-WORK_LIST = [100000, 1000000, 100000000, 100000000]
+WORK_LIST = [10000, 100000, 10000000, 10000000]
 
 
 # 동시성 합계 계산 메인 함수
